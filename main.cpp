@@ -1,6 +1,6 @@
 #include <iostream>
 
-void main()
+int main()
 {
 	int a = 5;
 	int b = 6;
@@ -8,4 +8,6 @@ void main()
 	std::cout << "Hello Vasia";
 
 	std::cout << a + b;
+
+	return 0;
 }
