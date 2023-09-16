@@ -5,7 +5,7 @@ int main()
 	int a = 5;
 	int b = 6;
 
-	std::cout << "Hello Petya";
+	std::cout << "Hello Brus Willis";
 
 	std::cout << a + b;
 
