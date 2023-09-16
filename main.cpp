@@ -6,4 +6,6 @@ void main()
 	int b = 6;
 
 	std::cout << "Hello Vasia";
+
+	std::cout << a + b;
 }
