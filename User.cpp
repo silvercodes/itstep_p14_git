@@ -6,4 +6,5 @@ private:
 	std::string email;
 	int age;
 	std::string password;
+	Role role;
 }
